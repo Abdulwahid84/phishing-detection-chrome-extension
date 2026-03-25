@@ -87,7 +87,6 @@ cd phishing-detection-chrome-extension</pre>
         <td>0.96</td>
     </tr>
 </table>
-<p><em>(Replace with your actual test results if available.)</em></p>
 
 <h2>Dataset</h2>
 <p>Phishing URL datasets are in the <code>Dataset/</code> folder:</p>
