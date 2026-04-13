@@ -1,4 +1,4 @@
-<h1>Phish Catcher 🛡️</h1>
+<h1>Phish Catcher 🛡️</h1> 
 <h2>Real-Time Phishing Detection Chrome Extension</h2>
 <p><em>Using Random Forest & XGBoost machine learning models to identify phishing websites</em></p>
 
